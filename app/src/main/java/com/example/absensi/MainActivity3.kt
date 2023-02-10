@@ -14,4 +14,8 @@ class MainActivity3 : AppCompatActivity() {
         val efita = Intent(this,MainActivity4::class.java)
         startActivity(efita)
     }
+    fun  iti(view: View){
+        val efita = Intent(this,MainActivity2::class.java)
+        startActivity(efita)
+    }
 }
