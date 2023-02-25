@@ -65,9 +65,9 @@
             android:backgroundTint="#7C7C7C"
             android:fontFamily="sans-serif-medium"
             android:onClick="ini"
-            android:text="MASUK"
+            android:text="NEXT"
             android:textSize="25sp"
-            android:layout_marginTop="-110dp"
+            android:layout_marginTop="-180dp"
             android:layout_marginLeft="90dp"
             app:layout_constraintHorizontal_bias="0.497" />
     </LinearLayout>
